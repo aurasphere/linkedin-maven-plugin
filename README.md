@@ -1,10 +1,7 @@
 [![Github Workflow](https://img.shields.io/github/actions/workflow/status/aurasphere/linkedin-maven-plugin/maven.yml?branch=main)](https://github.com/aurasphere/linkedin-maven-plugin/actions)
 [![Maven Central](https://img.shields.io/maven-central/v/co.aurasphere.maven.plugins/linkedin-maven-plugin.svg)](https://search.maven.org/artifact/co.aurasphere.maven.plugins/linkedin-maven-plugin/1.0.0/jar)
-[![Javadocs](http://javadoc.io/badge/co.aurasphere.maven.plugins/linkedin-maven-plugin.svg)](http://javadoc.io/doc/co.aurasphere.maven.plugins/linkedin-maven-plugin)
 [![Maintainability](https://api.codeclimate.com/v1/badges/44001e2c5b47062c078d/maintainability)](https://codeclimate.com/github/aurasphere/linkedin-maven-plugin/maintainability)
 [![Join the chat at https://gitter.im/linkedin-maven-plugin/community](https://badges.gitter.im/linkedin-maven-plugin/community.svg)](https://gitter.im/linkedin-maven-plugin/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
-[![Telegram](https://img.shields.io/badge/-telegram-a?color=white&logo=telegram)](https://t.me/+Wy1DPTLyFGg0OWE0)
 
 # LinkedIn Maven Plugin
 
